@@ -1,0 +1,37 @@
+_repo: Niskureita-b-Historiallinen-romaani-Kustaa-Vaasan-viime-vuosilta_75159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+description: ''
+gutenberg_issued: '2025-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75159'
+language: fi
+pgterms:marc905: 20241110071045sauramo
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Sweden -- History -- Gustav I Vasa, 1523-1560 -- Fiction'
+- !lcc 'PH'
+- GITenberg
+title: 'Niskureita : $b Historiallinen romaani Kustaa Vaasan viime vuosilta'
+url: http://www.gutenberg.org/ebooks/75159
